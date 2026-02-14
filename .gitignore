@@ -25,6 +25,9 @@ data/spatial/
 # Model Binaries
 models/*.pkl
 models/*.joblib
+# Allow these specific production models
+!models/housing_stress_model.joblib
+!models/scaler.joblib
 
 # OS-specific files
 .DS_Store
