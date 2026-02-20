@@ -68,7 +68,7 @@ To run this analysis locally, ensure you have Python 3.9+ installed:
 The final Random Forest model and its corresponding scaler are exported as `.joblib` files. These artifacts are designed to be consumed by the **WA Housing Service (Flask API)** to provide real-time predictions for the final dashboard application.
 
 ## Disclaimer
-This project is for **educational and portfolio purposes only**. While it utilises official data from the [Australian Bureau of Statistics (ABS)](https://www.abs.gov.au/), the "Housing Stress Index" and subsequent predictions are independent calculations. This analysis should not be used for real-estate investment, financial advice, or government policy decisions.
+This project is for **educational and portfolio purposes only**. While it utilises official data from the [Australian Bureau of Statistics (ABS)](https://www.abs.gov.au/), the "Housing Stress Index" and subsequent predictions are independent calculations. This analysis should not be used for real-estate investment, financial advice, or government policy decisions. Development was AI-assisted by Gemini for framework scaffolding, rapid development, and debugging; no sensitive information from the ABS datasets were shared with the AI during this process.
 
 ## Attribute & License
 This project is licensed under the [MIT License](./LICENSE)
