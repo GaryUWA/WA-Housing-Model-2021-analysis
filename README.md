@@ -27,7 +27,7 @@ The project is documented across four modular notebooks:
 4.  **[03_regression_modelling.ipynb](./notebooks/03_regression_modelling.ipynb):** Training and validating the Random Forest model (98% R²).
 
 ## Getting Started (Reproducibility)
-To run this analysis locally, ensure you have Python 3.9+ installed:
+To run this analysis locally, ensure you have Python 3.11+ installed:
 
 1.  **Clone the repository:**
     ```bash
